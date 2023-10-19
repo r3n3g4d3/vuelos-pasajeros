@@ -1,15 +1,16 @@
-PHP 8.2.4
-Laravel Framework 10.28.0
-MariaDB 10.4.28
+Versiones:
+
+- PHP 8.2.4
+- Laravel Framework 10.28.0
+- MariaDB 10.4.28
 
 Para crear las tablas ejecutar el comando: php artisan migrate
 
 
 ingresar a: 
 
-http://127.0.0.1:8000/pasajeros
-http://127.0.0.1:8000/vuelos
-
+- [http://127.0.0.1:8000/pasajeros].
+- [http://127.0.0.1:8000/vuelos].
 
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
